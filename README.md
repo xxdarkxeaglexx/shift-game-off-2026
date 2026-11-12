@@ -1,2 +1,1 @@
-# shift-game-off-2026
-Game Off 2026 entry — theme SHIFT. A tiny fresh Godot game where you shift between two forms. Deadline: December 1, 2026, 1:37 p.m. PST.
+Shiftling is a Game Off 2026 entry on the theme SHIFT, built fresh in Godot. Deadline December 1, 2026 at 1:37 p.m. PST. The build plan is at https://docs.google.com/document/d/18sbtkqxLwG1omaf84NmqgAvj_BQlWcG8MEzE2frWgxU/edit and the itch.io page draft is at https://docs.google.com/document/d/1XQzAFbs5LXqHssxJjHT-1PUUrV5yDRWLoKm8PkiiXYw/edit. The game build itself stays with ChatGPT.
